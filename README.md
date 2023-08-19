@@ -1,3 +1,3 @@
 # LineFollower_3DX_Code
 
-Repositório para guardar informações relacionadas a mecânica
+Repositório para guardar informações relacionadas à programação
